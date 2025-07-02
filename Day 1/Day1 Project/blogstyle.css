@@ -1,0 +1,106 @@
+.flexContainer{
+    height: 45px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+    background-color: rgb(210, 186, 155);
+}
+.searchbox {
+    border: none;
+    border-radius: 25px;
+    background-color: white;
+    padding: 3px 7px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.searchbox input {
+    border: none;
+    outline: none;
+    padding: 8px 15px;
+    border-radius: 25px;
+    font-size: 14px;
+    width: 160px;
+    background-color: transparent;
+}
+
+.searchbox:hover {
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
+}
+.subscribe-btn{
+    background-color: rgba(255, 0, 0, 0.874);
+    padding: 7px;
+    border: 3px solid;
+    border-radius: 50px;
+}
+.subscribe-btn:hover{
+    background-color: rgb(255, 0, 0);
+    padding: 10px;
+    transition: 0.2s ease-in-out;
+}
+.create-btn{
+    padding: 7px;
+    border: 3px solid;
+    border-radius: 50px;
+}
+.create-btn:hover{
+    padding: 10px;
+    transition: 0.2s ease-in-out;
+}
+.main-cls{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-color: rgb(37, 34, 34);
+}
+.para{
+    width: 720px;
+}
+
+.gridContainer {
+    display: grid;
+    height: 70vh;
+    width: 100vh;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 7px;
+}
+
+.gridContainer img {
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.gridContainer img:hover {
+    transform: scale(1.05);
+    border: 2px solid #fff;
+}
+.gridItem:nth-child(7){
+    grid-row: 2;
+    grid-column: 2;
+}
+
+.footer {
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.social-icons a {
+    color: white;
+    margin: 0 15px;
+    font-size: 20px;
+    transition: color 0.3s ease;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: #3b68f1;
+}
+
