@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  background-color: black;
+  padding: 20px;
+  transition: background-color 0.3s;
+}
+
+.header {
+  color: white;
+  padding: 20px;
+}
+
+.againbtn {
+  color: white;
+  background-color: black;
+  padding: 10px;
+  border: 3px solid white;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.btwNumber {
+  color: white;
+  margin: 20px;
+}
+
+.con1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.line {
+  height: 20px;
+  margin-top: 50px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.questionMark {
+  height: 80px;
+  width: 80px;
+  font-size: 40px;
+  font-weight: 600;
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.con2 {
+  margin-top: 100px;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.input label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.inputval {
+  height: 40px;
+  width: 120px;
+  font-size: 18px;
+  padding-left: 10px;
+  border: 3px solid white;
+  background-color: black;
+  color: white;
+  margin-bottom: 10px;
+}
+
+#checkBtn {
+  padding: 10px;
+  background-color: white;
+  color: black;
+  border: none;
+  cursor: pointer;
+}
+
+.overview p {
+  margin: 10px 0;
+}
