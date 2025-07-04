@@ -26,7 +26,7 @@ checkBtn.addEventListener("click", () => {
   } else if (guess === secretNumber) {
     guessedValue.textContent = secretNumber;
     message.textContent = "Correct Number!";
-    container.style.backgroundColor = "#60b347";
+    container.style.backgroundColor = "green";
 
     if (score > highScore) {
       highScore = score;
