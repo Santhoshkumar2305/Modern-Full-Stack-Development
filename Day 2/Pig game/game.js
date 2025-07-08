@@ -55,7 +55,7 @@ btnRoll.addEventListener('click', function () {
       switchPlayer();
     }
   }
-  },2000);
+  },1000);
 });
 
 btnHold.addEventListener('click', function () {

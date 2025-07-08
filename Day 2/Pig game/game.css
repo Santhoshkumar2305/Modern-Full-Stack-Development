@@ -12,8 +12,6 @@ body {
   height: 100vh;
 }
 .game {
-  background-color: rgba(125, 241, 241, 0.15);
-  backdrop-filter: blur(10px);
   border-radius: 20px;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -85,6 +83,11 @@ body {
   cursor: pointer;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
   margin-top: 10px;
+}
+.btn:hover{
+  background-color: antiquewhite;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
 }
 
 .btn--new {
