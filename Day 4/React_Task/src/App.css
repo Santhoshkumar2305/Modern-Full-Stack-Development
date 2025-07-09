@@ -175,13 +175,10 @@
   color: black;
 }
 
-.bigcomponent{
+.bigcomponent {
   height: 60vh;
   width: 100vw;
   background-color: rgb(60, 145, 0);
-}
-
-.bigcomponent {
   display: flex;
   justify-content: center;
   align-items: center;

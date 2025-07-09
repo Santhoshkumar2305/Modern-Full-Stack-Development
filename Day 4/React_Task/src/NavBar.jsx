@@ -11,7 +11,6 @@ const NavBar = () => {
           <p className='nav-link'>Create</p>
           <p className='nav-link'>Share</p>
         </div>
-        
     </div>
   )
 }
