@@ -1,0 +1,186 @@
+[
+  {
+    "id": "1",
+    "img": "https://images.pexels.com/photos/3915906/pexels-photo-3915906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "foodname": "Burger",
+    "desc": "Juicy grilled burger with cheese and veggies",
+    "price": "₹320 for two",
+    "rating": "4.5"
+  },
+  {
+    "id": "2",
+    "img": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+    "foodname": "Fruits",
+    "desc": "Fresh seasonal fruit platter",
+    "price": "₹150 for two",
+    "rating": "4.2"
+  },
+  {
+    "id": "3",
+    "img": "https://tse3.mm.bing.net/th/id/OIP.8UeIFPMYwIErE1ShRYB9QAHaEo?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "foodname": "Pizza",
+    "desc": "Cheesy pizza with loaded toppings",
+    "price": "₹320 for two",
+    "rating": "4.6"
+  },
+  {
+    "id": "4",
+    "img": "https://www.awesomecuisine.com/wp-content/uploads/2020/03/chilli-chicken.jpg",
+    "foodname": "Chicken65",
+    "desc": "Crispy fried spicy chicken bites",
+    "price": "₹300 for two",
+    "rating": "4.4"
+  },
+  {
+    "id": "5",
+    "img": "https://1.bp.blogspot.com/-dmr7TvaMJ7c/WRyLh1RZjlI/AAAAAAAAIF4/uPHo3WFtctE8ZS34-s0mkRyNRkU-2-SzgCLcB/s1600/0000000000000000000000A%2B%25281%2529.jpg",
+    "foodname": "Fish",
+    "desc": "Crispy fried or grilled fish fillets",
+    "price": "₹250 for two",
+    "rating": "4.1"
+  },
+  {
+    "id": "6",
+    "img": "https://blog.thermoworks.com/wp-content/uploads/2018/01/french_fry_atk_method-31-of-36_2.jpg",
+    "foodname": "French fries",
+    "desc": "Crispy golden potato fries",
+    "price": "₹300 for two",
+    "rating": "4.5"
+  },
+  {
+    "id": "7",
+    "img": "https://thetoastedpinenut.com/wp-content/uploads/2017/08/IMG_5288.jpg",
+    "foodname": "Nuggets",
+    "desc": "Golden fried chicken nuggets",
+    "price": "₹280 for two",
+    "rating": "4.3"
+  },
+  {
+    "id": "8",
+    "img": "https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg",
+    "foodname": "Dosa",
+    "desc": "Thin crispy South Indian rice crepe",
+    "price": "₹300 for two",
+    "rating": "3.9"
+  },
+  {
+    "id": "9",
+    "img": "https://www.kannammacooks.com/wp-content/uploads/bread-omelette-recipe-1-6.jpg",
+    "foodname": "Bread omlete",
+    "desc": "Toasted bread with masala omelette",
+    "price": "₹200 for two",
+    "rating": "4.0"
+  },
+  {
+    "id": "10",
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "foodname": "Chickenroll",
+    "desc": "Spicy chicken wrapped in paratha",
+    "price": "₹450 for two",
+    "rating": "4.7"
+  },
+  {
+    "id": "11",
+    "img": "https://tse4.mm.bing.net/th/id/OIP.k4JMO5bD97BK3hxEHefrmAHaFP?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "foodname": "Sandwich",
+    "desc": "Grilled sandwich with veggies and cheese",
+    "price": "₹400 for two",
+    "rating": "4.6"
+  },
+  {
+    "id": "12",
+    "img": "https://media.istockphoto.com/photos/delicious-idli-served-with-chutney-and-sambar-picture-id914423326?k=20&m=914423326&s=612x612&w=0&h=9mdua9F5Sj00sbeRN80j-WqSzG63uocrUiu8ZpOBfZc=",
+    "foodname": "Idly",
+    "desc": "Soft steamed rice cakes with chutney",
+    "price": "₹100 for two",
+    "rating": "3.8"
+  },
+  {
+    "id": "13",
+    "img": "https://www.catchyfinds.com/content/images/2023/02/H_Lemon-Juice-5.jpg",
+    "foodname": "Lemon juice",
+    "desc": "Refreshing lemon drink with mint",
+    "price": "₹280 for two",
+    "rating": "4.2"
+  },
+  {
+    "id": "14",
+    "img": "https://vegecravings.com/wp-content/uploads/2017/03/samosa-recipe-step-by-step-instructions.jpg",
+    "foodname": "Samosa",
+    "desc": "Crispy snack filled with spicy potatoes",
+    "price": "₹100 for two",
+    "rating": "4.1"
+  },
+  {
+    "id": "15",
+    "img": "https://static01.nyt.com/images/2020/01/15/dining/ss-black-forest-cake/merlin_165684495_6689b1a0-42b5-4228-b871-37bb983d797e-superJumbo.jpg",
+    "foodname": "Blackforest",
+    "desc": "Rich chocolate cake with cherry layers",
+    "price": "₹150 for two",
+    "rating": "4.7"
+  },
+  {
+    "id": "16",
+    "img": "https://www.cookwithnabeela.com/wp-content/uploads/2024/02/GulabJamun2-.webp",
+    "foodname": "Gulabjamun",
+    "desc": "Milk-solid sweet soaked in sugar syrup",
+    "price": "₹400 for two",
+    "rating": "4.5"
+  },
+  {
+    "id": "17",
+    "img": "https://wearenotmartha.com/wp-content/uploads/Strawberry-Mint-Ice-Cream-Featured-copy.jpg",
+    "foodname": "Icecream",
+    "desc": "Creamy strawberry mint flavored dessert",
+    "price": "₹350 for two",
+    "rating": "4.4"
+  },
+  {
+    "id": "18",
+    "img": "https://www.awesomecuisine.com/wp-content/uploads/2020/03/poori-masala-kizhangu-585x390.jpg",
+    "foodname": "Poori",
+    "desc": "Deep-fried puffy Indian bread",
+    "price": "₹280 for two",
+    "rating": "4.0"
+  },
+  {
+    "id": "19",
+    "img": "https://spiceeats.com/wp-content/uploads/2020/07/Bhuna-Mutton.jpg",
+    "foodname": "Muttonfry",
+    "desc": "Spicy fried mutton pieces",
+    "price": "₹300 for two",
+    "rating": "4.3"
+  },
+  {
+    "id": "20",
+    "img": "https://tse2.mm.bing.net/th/id/OIP.VqkIvD_jNJTXRCQotzKOUQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "foodname": "Pongal",
+    "desc": "South Indian rice and lentil porridge",
+    "price": "₹220 for two",
+    "rating": "4.2"
+  },
+  {
+    "id": "21",
+    "img": "https://mediavine-res.cloudinary.com/image/upload/s--NGif5kaM--/ar_16:9,c_fill,f_auto,fl_lossy,q_auto/v1544487685/hnztcbzoncrpaokkfap7.jpg",
+    "foodname": "Momos",
+    "desc": "Steamed dumplings with spicy filling",
+    "price": "₹500 for two",
+    "rating": "4.8"
+  },
+  {
+    "id": "22",
+    "img": "https://kohinoor-joy.com/wp-content/uploads/2020/08/curd-rice-recipe.jpg",
+    "foodname": "Curdrice",
+    "desc": "Simple curd rice with tempering",
+    "price": "₹200 for two",
+    "rating": "3.9"
+  },
+  {
+    "id": "23",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.PsgbUwcQnteg6CxpJg-OYgHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "foodname": "Kulfi",
+    "desc": "Traditional Indian frozen dessert",
+    "price": "₹240 for two",
+    "rating": "4.5"
+  }
+]
